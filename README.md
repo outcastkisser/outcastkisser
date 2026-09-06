@@ -1,15 +1,23 @@
+ <p align="center">
+   this is a wip btw 
+ </p>
+   <img src="https://komarev.com/ghpvc/?username=aonungkisser&style=flat-square" alt="views"/> 
   
-  <img src="https://komarev.com/ghpvc/?username=aonungkisser&style=flat-square" alt="views"/> 
-  
-  ![68747470733a2f2f65787465726e616c2d6d656469612e73706163656865792e6e65742f6d656469612f73726b55655f5a5f5731354559646b4f71656674545a7039456433514165624d6264324b7849475f666e6a513d2f68747470733a2f2f7370616d746f6e69756d2](https://github.com/user-attachments/assets/ad0b3069-acb7-4886-b4ec-3e40a7de2cc3)
+ <p align="center"> 
+<img width="1300" height="258" alt="Screenshot 2026-08-30 012912" src="https://github.com/user-attachments/assets/a5ccddc5-a271-44bd-9938-99b1e2352f9b" />
 
+ <p align="center"> 
+<img width="150" height="20" alt="487166128-ad0b3069-acb7-4886-b4ec-3e40a7de2cc3" src="https://github.com/user-attachments/assets/d86d87ee-01c7-43db-97ac-e046a4912900" />
 
 
 ---
 
 <p align="center">
-  <b>TRAVIS</b>🪽<br>5TEEN
+TRAVIS 🪽 15
+</p>
 
+<p align="center">
+  <img width="600" height="211" alt="b4c7d11d39d46da9d360503ee3fa4ba1" src="https://github.com/user-attachments/assets/517baf88-3a6e-4048-b1a3-0cfbdaf78dc1" />
 
 </p>
 
