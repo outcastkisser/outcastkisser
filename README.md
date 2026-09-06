@@ -17,14 +17,3 @@
 </p>
 
 ---
-
-<p align="center">
-<img width="700" height="500" alt="Untitled25_20260907004352" src="https://github.com/user-attachments/assets/edb3da73-06a6-482a-8e4c-fe39222643f4" />
-
- <p align="center"> 
- <img width="700" height="200" alt="Untitled26_20260907005603" src="https://github.com/user-attachments/assets/5b5dd14a-c904-4b47-b5a9-31f520b7f348" />
-
-
-</p>
-
----
