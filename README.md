@@ -1,19 +1,14 @@
- <p align="center">
-   this is a wip btw 
  </p>
-   <img src="https://komarev.com/ghpvc/?username=aonungkisser&style=flat-square" alt="views"/> 
-  
- <p align="center"> 
-<img width="1300" height="258" alt="Screenshot 2026-08-30 012912" src="https://github.com/user-attachments/assets/a5ccddc5-a271-44bd-9938-99b1e2352f9b" />
-
- <p align="center"> 
-<img width="150" height="20" alt="487166128-ad0b3069-acb7-4886-b4ec-3e40a7de2cc3" src="https://github.com/user-attachments/assets/d86d87ee-01c7-43db-97ac-e046a4912900" />
+  <p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=aonungkisser&style=flat-square" alt="views"/> 
 
 
 ---
 
 <p align="center">
-TRAVIS 🪽 15
+<img width="3000" height="1250" alt="Untitled24_20260907001838" src="https://github.com/user-attachments/assets/f3bab3c3-048e-4f88-bd52-1f95fd44c3d9" />
+
+
 </p>
 
 <p align="center">
@@ -24,7 +19,12 @@ TRAVIS 🪽 15
 ---
 
 <p align="center">
-   BPD — AUTISM — SUSPECTED BIPOLAR DISORDER — UDD
+<img width="700" height="500" alt="Untitled25_20260907004352" src="https://github.com/user-attachments/assets/edb3da73-06a6-482a-8e4c-fe39222643f4" />
+
+ <p align="center"> 
+ <img width="700" height="200" alt="Untitled26_20260907005603" src="https://github.com/user-attachments/assets/5b5dd14a-c904-4b47-b5a9-31f520b7f348" />
+
+
 </p>
 
 ---
